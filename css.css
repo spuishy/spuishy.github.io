@@ -1,5 +1,5 @@
 .pepe{
-    animation: us 1s alternate infinite;
+    animation: us 10s alternate infinite;
 }
 
 @keyframes us {
