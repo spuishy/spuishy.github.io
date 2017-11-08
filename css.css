@@ -1,5 +1,9 @@
 .pepe{
-    animation: us 10s alternate infinite;
+    animation: us 0s alternate infinite;
+}
+
+h1{
+    text-align:center;
 }
 
 @keyframes us {
